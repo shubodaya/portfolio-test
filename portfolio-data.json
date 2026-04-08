@@ -1,0 +1,193 @@
+{
+  "draftName": "Northstar Studio",
+  "basic": {
+    "fullName": "Northstar Studio",
+    "brandName": "Northstar",
+    "tagline": "Designing high-trust digital experiences for modern service brands.",
+    "entityType": "agency",
+    "logo": "",
+    "profileImage": "",
+    "coverImage": ""
+  },
+  "about": {
+    "description": "Northstar Studio helps service-led businesses present their expertise with clear positioning, polished design systems, and practical web experiences that convert visitors into leads.",
+    "mission": "To give growing teams a portfolio website that feels credible, current, and simple to maintain.",
+    "vision": "A web presence where every serious business can launch a professional portfolio without custom development overhead.",
+    "yearsOfExperience": "8+",
+    "teamSize": "12",
+    "industriesServed": [
+      "Professional services",
+      "SaaS",
+      "Real estate",
+      "Healthcare"
+    ]
+  },
+  "services": [
+    {
+      "id": "service-c66facf8-8931-47e2-b4c3-73f5cb17bfce",
+      "title": "Portfolio Website Design",
+      "description": "Clean multi-section portfolio websites tailored to business positioning and conversion goals.",
+      "iconName": "layout",
+      "keyBenefits": [
+        "Faster launch timeline",
+        "Clear service communication",
+        "Responsive design"
+      ],
+      "pricing": "Starting at $2,500"
+    },
+    {
+      "id": "service-67cea5fa-0207-4dc7-b8a6-2375d3d17735",
+      "title": "Brand Messaging Refresh",
+      "description": "Sharper homepage messaging, about copy, and call-to-action strategy for sales clarity.",
+      "iconName": "pen-tool",
+      "keyBenefits": [
+        "Improved trust cues",
+        "Stronger differentiation",
+        "Consistent brand voice"
+      ],
+      "pricing": "Project-based"
+    },
+    {
+      "id": "service-5394f36f-2df1-4dd3-a92f-bb466838d3e1",
+      "title": "Launch Support",
+      "description": "Repository setup, deployment, and post-launch handoff so teams can own their site.",
+      "iconName": "rocket",
+      "keyBenefits": [
+        "GitHub-ready codebase",
+        "Live deployment support",
+        "Editable structure"
+      ],
+      "pricing": "Included in premium package"
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-2fb07e72-f6ca-43a9-acec-1c3076da6f45",
+      "title": "Altura Advisory",
+      "description": "Consulting portfolio with trust-focused copy, service proof points, and lead capture.",
+      "category": "Consulting",
+      "techStack": [
+        "Next.js",
+        "Tailwind CSS",
+        "GitHub Pages"
+      ],
+      "image": "",
+      "projectUrl": "https://example.com/altura-advisory",
+      "githubUrl": "https://github.com/example/altura-advisory",
+      "clientName": "Altura Advisory",
+      "testimonial": "Northstar made our services understandable in minutes, not meetings."
+    },
+    {
+      "id": "project-af021154-8fc5-45e3-93c5-44412b028674",
+      "title": "Motive Spaces",
+      "description": "Image-led interior design showcase with a premium gallery experience and inquiry flow.",
+      "category": "Design",
+      "techStack": [
+        "React",
+        "Static HTML export",
+        "GitHub API"
+      ],
+      "image": "",
+      "projectUrl": "https://example.com/motive-spaces",
+      "githubUrl": "https://github.com/example/motive-spaces",
+      "clientName": "Motive Spaces",
+      "testimonial": "The portfolio now feels aligned with the level of work we actually deliver."
+    }
+  ],
+  "expertise": {
+    "skills": [
+      "Portfolio strategy",
+      "Brand storytelling",
+      "Responsive web design",
+      "Lead generation UX"
+    ],
+    "tools": [
+      "Next.js",
+      "Figma",
+      "Tailwind CSS",
+      "GitHub",
+      "Notion"
+    ],
+    "certifications": [
+      "Google UX Design",
+      "HubSpot SEO Certification"
+    ],
+    "awards": [
+      "Local Web Excellence 2025"
+    ],
+    "strengths": [
+      "Clear messaging",
+      "Fast execution",
+      "Business-first design"
+    ]
+  },
+  "testimonials": [
+    {
+      "id": "testimonial-f9a5d696-5627-4532-909d-2473d1176b23",
+      "clientName": "Amina Ross",
+      "clientRole": "Founder",
+      "company": "Altura Advisory",
+      "text": "The final site helped us sound like the senior partner we wanted clients to see from day one.",
+      "clientImage": "",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-8e3b90bb-4fac-471c-8ea2-5af1396bc2db",
+      "clientName": "Leo Park",
+      "clientRole": "Creative Director",
+      "company": "Motive Spaces",
+      "text": "We moved from a generic placeholder page to a portfolio we can confidently send to premium clients.",
+      "clientImage": "",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "email": "hello@northstarstudio.co",
+    "phone": "+44 20 7946 0123",
+    "whatsapp": "+44 7700 900123",
+    "officeAddress": "21 Mercer Street, London, United Kingdom",
+    "googleMapsEmbed": "https://www.google.com/maps?q=21%20Mercer%20Street%2C%20London%2C%20United%20Kingdom&output=embed",
+    "recipientEmail": "hello@northstarstudio.co"
+  },
+  "social": {
+    "github": "https://github.com/northstarstudio",
+    "linkedin": "https://linkedin.com/company/northstarstudio",
+    "twitter": "https://x.com/northstarstudio",
+    "instagram": "https://instagram.com/northstarstudio",
+    "facebook": "",
+    "behance": "https://behance.net/northstarstudio",
+    "dribbble": "https://dribbble.com/northstarstudio",
+    "youtube": "",
+    "website": "https://northstarstudio.co",
+    "visiblePlatforms": [
+      "github",
+      "linkedin",
+      "twitter",
+      "instagram",
+      "behance",
+      "dribbble",
+      "website"
+    ]
+  },
+  "business": {
+    "businessCategory": "Design agency",
+    "targetAudience": "Professional service firms, solo consultants, and boutique teams that need a polished online presence.",
+    "mainCallToAction": "Book a discovery call",
+    "bookingLink": "https://northstarstudio.co/book",
+    "calendlyLink": "https://calendly.com/northstarstudio/discovery",
+    "workingHours": "Mon - Fri, 9:00 AM - 6:00 PM"
+  },
+  "seo": {
+    "websiteTitle": "Northstar Studio | Portfolio Websites for Modern Service Brands",
+    "metaDescription": "Northstar Studio builds professional portfolio websites for freelancers, agencies, startups, and companies using a clear guided workflow.",
+    "brandColors": [
+      "#2046f2",
+      "#0f172a",
+      "#dce3ff"
+    ],
+    "preferredFontStyle": "modern-sans",
+    "domainName": "northstarstudio.co",
+    "favicon": ""
+  },
+  "selectedTemplateId": "classic-corporate"
+}
