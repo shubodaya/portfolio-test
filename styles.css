@@ -1,5 +1,5 @@
 
-:root{--primary:#2046f2;--secondary:#0f172a;--surface:#dce3ff;--background:#f5f8ff;--text:#0f172a;--muted:#475569;--card:#ffffff;--heading:"Manrope", Arial, sans-serif;--body:"Source Sans 3", Arial, sans-serif;--shadow:0 24px 60px rgba(15,23,42,0.12);}
+:root{--primary:#2046f2;--secondary:#0f172a;--surface:#eef2ff;--background:#f5f8ff;--text:#0f172a;--muted:#475569;--card:#ffffff;--heading:"Fraunces", Georgia, serif;--body:"Source Sans 3", Arial, sans-serif;--shadow:0 24px 60px rgba(15,23,42,0.12);}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-height:100vh;font-family:var(--body);color:var(--text);background:radial-gradient(circle at top left,rgba(255,255,255,.12),transparent 30%),linear-gradient(180deg,rgba(255,255,255,.04),transparent 28%),var(--background)}
 a{text-decoration:none;color:inherit}img{display:block;max-width:100%}
 .page-shell{width:100%;padding:0}
